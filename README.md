@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopes</h1>
-<h3 align="center">Ambitious fullstack web developer from Slovakia</h3>
+<!--h3 align="center">Ambitious fullstack web developer from Slovakia</h3>
 
 - 🔭 I’m currently working on [Hyperbola](https://hyperbola.sk/)
 
