@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopes</h1>
 <h3 align="center">Ambitious fullstack web developer from Slovakia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgopes&label=Profile%20views&color=0e75b6&style=flat" alt="mrgopes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgopes" alt="mrgopes" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/goodguygopes" target="blank"><img src="https://img.shields.io/twitter/follow/goodguygopes?logo=twitter&style=for-the-badge" alt="goodguygopes" /></a> </p>
-
 - 🔭 I’m currently working on [Hyperbola](https://hyperbola.sk/)
 
 - 🌱 I’m currently learning **C++**
