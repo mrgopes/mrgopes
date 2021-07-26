@@ -22,10 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrgopes&show_icons=true&locale=en&layout=compact" alt="mrgopes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgopes&show_icons=true&locale=en" alt="mrgopes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgopes&" alt="mrgopes" /></p>
-
 <!--
 **mrgopes/mrgopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
